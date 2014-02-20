@@ -1,0 +1,16 @@
+{
+  "name": "segmentio-chrome-events",
+  "description": "tiny wrapper for chrome events, inspired by component/events",
+  "version": "0.0.1",
+  "keywords": [
+    "events",
+    "chrome"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "ianstormtaylor-to-camel-case": "git://github.com/npmcomponent/ianstormtaylor-to-camel-case.git",
+    "visionmedia-debug": "git://github.com/npmcomponent/visionmedia-debug.git",
+    "yields-capitalize": "git://github.com/npmcomponent/yields-capitalize.git"
+  },
+  "license": "MIT"
+}

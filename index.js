@@ -3,9 +3,9 @@
  * Module dependencies.
  */
 
-var debug = require('debug')('chrome-events');
-var camelcase = require('to-camel-case');
-var uppercase = require('capitalize');
+var debug = require('visionmedia-debug')('chrome-events');
+var camelcase = require('ianstormtaylor-to-camel-case');
+var uppercase = require('yields-capitalize');
 
 /**
  * Expose `Events`
